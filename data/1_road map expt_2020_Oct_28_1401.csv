@@ -1,0 +1,5 @@
+﻿corrAns,directNote,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,instrText.started,instrText.stopped,directions.keys,directions.corr,directions.started,directions.stopped,map.started,map.stopped,participant,session,date,expName,psychopyVersion,frameRate,
+s,s = left,0,0,0,0,23.254490099847317,None,None,0,41.20260659977794,None,41.20260659977794,None,1,001,2020_Oct_28_1401,road map expt,2020.2.4,59.93823961420234,
+s,k = right,0,1,1,1,,,None,0,60.778499599779025,None,60.778499599779025,None,1,001,2020_Oct_28_1401,road map expt,2020.2.4,59.93823961420234,
+k,None,0,2,2,2,,,None,0,80.77610889985226,None,80.77610889985226,None,1,001,2020_Oct_28_1401,road map expt,2020.2.4,59.93823961420234,
+k,None,0,3,3,3,,,None,0,100.77546839998104,None,100.77546839998104,None,1,001,2020_Oct_28_1401,road map expt,2020.2.4,59.93823961420234,

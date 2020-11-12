@@ -1,0 +1,6 @@
+﻿corrAns,directNote,displayMap.thisRepN,displayMap.thisTrialN,displayMap.thisN,displayMap.thisIndex,instrText.started,instrText.stopped,map.started,map.stopped,directionResponses.keys,directionResponses.corr,directionResponses.rt,directionResponses.started,directionResponses.stopped,participant,session,date,expName,psychopyVersion,frameRate,
+s,s = left,0,0,0,0,15.505842400016263,None,25.21314250002615,26.82313279993832,['s'],0,[9.64739409997128],25.21314250002615,None,1,001,2020_Nov_05_2317,road map expt,2020.2.4,59.9586884701627,
+s,s = left,1,0,1,0,,,34.88862230000086,None,['s'],0,[1.5905828000977635],34.88862230000086,None,1,001,2020_Nov_05_2317,road map expt,2020.2.4,59.9586884701627,
+s,s = left,2,0,2,0,,,36.50690810009837,36.50690810009837,['s'],0,[0.46606600005179644],36.50690810009837,None,1,001,2020_Nov_05_2317,road map expt,2020.2.4,59.9586884701627,
+s,s = left,3,0,3,0,,,37.00600649998523,None,['s'],0,[0.15041400003246963],37.00600649998523,None,1,001,2020_Nov_05_2317,road map expt,2020.2.4,59.9586884701627,
+s,s = left,4,0,4,0,,,37.18341919989325,None,['s'],0,[0.15959749999456108],37.18341919989325,None,1,001,2020_Nov_05_2317,road map expt,2020.2.4,59.9586884701627,

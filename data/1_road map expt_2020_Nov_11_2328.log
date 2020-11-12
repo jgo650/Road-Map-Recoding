@@ -1,0 +1,206 @@
+1.7101 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+10.2877 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+12.2973 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E749E85A90>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001E74A296AC8>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+12.2980 	EXP 	window1: mouseVisible = True
+12.2981 	EXP 	window1: recordFrameIntervals = False
+12.4625 	EXP 	window1: recordFrameIntervals = True
+12.6462 	EXP 	window1: recordFrameIntervals = False
+13.3109 	EXP 	Created instrText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='instrText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.4697 	EXP 	Created map = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='image/RMT_test_map.jpg', interpolate=True, mask=None, maskParams=None, name='map', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.75, 0.75]), texRes=128, units='height', win=Window(...))
+13.4954 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='Finished', units='height', win=Window(...), wrapWidth=1)
+13.5327 	EXP 	instrText: autoDraw = True
+14.0199 	DATA 	Mouse: Left button down, pos=(916,509)
+14.1227 	DATA 	Mouse:  Left button up, pos=(916,509)
+14.3011 	DATA 	Keypress: s
+14.4126 	EXP 	Imported road map conditions.xlsx as conditions, 1 conditions, 2 params
+14.4131 	EXP 	Created sequence: sequential, trialTypes=1, nReps=1, seed=None
+14.4137 	EXP 	New trial (rep=0, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+14.6559 	EXP 	instrText: autoDraw = False
+14.6559 	EXP 	map: autoDraw = True
+15.3014 	DATA 	Keypress: s
+17.5831 	DATA 	Keypress: s
+17.8161 	DATA 	Keypress: k
+18.0663 	DATA 	Keypress: s
+18.2832 	DATA 	Keypress: k
+18.5330 	DATA 	Keypress: s
+18.6809 	DATA 	Keypress: k
+18.8991 	DATA 	Keypress: s
+19.0321 	DATA 	Keypress: k
+19.1653 	DATA 	Keypress: s
+19.2646 	DATA 	Keypress: k
+19.3490 	DATA 	Keypress: s
+19.4308 	DATA 	Keypress: k
+19.5481 	DATA 	Keypress: s
+19.5977 	DATA 	Keypress: k
+19.7149 	DATA 	Keypress: s
+19.7644 	DATA 	Keypress: k
+19.8978 	DATA 	Keypress: s
+19.9307 	DATA 	Keypress: k
+20.0808 	DATA 	Keypress: s
+20.1133 	DATA 	Keypress: k
+20.2640 	DATA 	Keypress: s
+20.2825 	DATA 	Keypress: k
+20.4483 	DATA 	Keypress: s
+20.4813 	DATA 	Keypress: k
+20.6313 	DATA 	Keypress: s
+20.6470 	DATA 	Keypress: k
+20.8138 	DATA 	Keypress: s
+20.8463 	DATA 	Keypress: k
+21.0128 	DATA 	Keypress: s
+21.0468 	DATA 	Keypress: k
+21.2137 	DATA 	Keypress: s
+21.2631 	DATA 	Keypress: k
+21.4121 	DATA 	Keypress: s
+21.4623 	DATA 	Keypress: k
+21.5966 	DATA 	Keypress: s
+21.6634 	DATA 	Keypress: k
+21.7791 	DATA 	Keypress: s
+21.8622 	DATA 	Keypress: k
+21.9802 	DATA 	Keypress: s
+22.0459 	DATA 	Keypress: k
+22.1456 	DATA 	Keypress: s
+22.2286 	DATA 	Keypress: k
+22.3455 	DATA 	Keypress: s
+22.4121 	DATA 	Keypress: k
+22.5288 	DATA 	Keypress: s
+22.6125 	DATA 	Keypress: k
+22.6980 	DATA 	Keypress: s
+22.7958 	DATA 	Keypress: k
+22.8815 	DATA 	Keypress: s
+22.9778 	DATA 	Keypress: k
+23.0782 	DATA 	Keypress: s
+23.1447 	DATA 	Keypress: k
+23.2618 	DATA 	Keypress: s
+23.3618 	DATA 	Keypress: k
+23.4612 	DATA 	Keypress: s
+23.5287 	DATA 	Keypress: k
+23.6447 	DATA 	Keypress: s
+23.7276 	DATA 	Keypress: k
+23.8307 	DATA 	Keypress: s
+23.9104 	DATA 	Keypress: k
+24.0282 	DATA 	Keypress: s
+24.1112 	DATA 	Keypress: k
+24.2144 	DATA 	Keypress: s
+24.2943 	DATA 	Keypress: k
+24.4126 	DATA 	Keypress: s
+24.4950 	DATA 	Keypress: k
+24.5980 	DATA 	Keypress: s
+24.6947 	DATA 	Keypress: k
+24.7935 	DATA 	Keypress: s
+24.8769 	DATA 	Keypress: k
+24.9938 	DATA 	Keypress: s
+25.0758 	DATA 	Keypress: k
+25.1779 	DATA 	Keypress: s
+25.2757 	DATA 	Keypress: k
+25.3757 	DATA 	Keypress: s
+25.4774 	DATA 	Keypress: k
+25.5753 	DATA 	Keypress: s
+25.6926 	DATA 	Keypress: k
+25.7907 	DATA 	Keypress: s
+25.8914 	DATA 	Keypress: k
+25.9922 	DATA 	Keypress: s
+26.0909 	DATA 	Keypress: k
+26.1920 	DATA 	Keypress: s
+26.2950 	DATA 	Keypress: k
+26.3922 	DATA 	Keypress: s
+26.4924 	DATA 	Keypress: k
+26.5928 	DATA 	Keypress: s
+26.6947 	DATA 	Keypress: k
+26.7923 	DATA 	Keypress: s
+26.8932 	DATA 	Keypress: k
+26.9906 	DATA 	Keypress: s
+27.0914 	DATA 	Keypress: k
+27.1731 	DATA 	Keypress: s
+27.2912 	DATA 	Keypress: k
+27.3739 	DATA 	Keypress: s
+27.4911 	DATA 	Keypress: k
+27.5584 	DATA 	Keypress: s
+27.6901 	DATA 	Keypress: k
+27.7401 	DATA 	Keypress: s
+27.8908 	DATA 	Keypress: k
+27.9410 	DATA 	Keypress: s
+28.0742 	DATA 	Keypress: k
+28.1256 	DATA 	Keypress: s
+28.2737 	DATA 	Keypress: k
+28.3076 	DATA 	Keypress: s
+28.4566 	DATA 	Keypress: k
+28.5068 	DATA 	Keypress: s
+28.6573 	DATA 	Keypress: k
+28.7067 	DATA 	Keypress: s
+28.8568 	DATA 	Keypress: k
+28.9072 	DATA 	Keypress: s
+29.0391 	DATA 	Keypress: k
+29.1071 	DATA 	Keypress: s
+29.2567 	DATA 	Keypress: k
+29.3230 	DATA 	Keypress: s
+29.4396 	DATA 	Keypress: k
+29.5057 	DATA 	Keypress: s
+29.6379 	DATA 	Keypress: k
+29.7045 	DATA 	Keypress: s
+29.8230 	DATA 	Keypress: k
+29.9060 	DATA 	Keypress: s
+30.0230 	DATA 	Keypress: k
+30.0894 	DATA 	Keypress: s
+30.2221 	DATA 	Keypress: k
+30.2723 	DATA 	Keypress: s
+30.4056 	DATA 	Keypress: k
+30.4720 	DATA 	Keypress: s
+30.6050 	DATA 	Keypress: k
+30.6709 	DATA 	Keypress: s
+30.8048 	DATA 	Keypress: k
+30.8710 	DATA 	Keypress: s
+31.0042 	DATA 	Keypress: k
+31.0369 	DATA 	Keypress: s
+31.2037 	DATA 	Keypress: s
+31.2195 	DATA 	Keypress: k
+31.3880 	DATA 	Keypress: s
+31.4550 	DATA 	Keypress: k
+31.6206 	DATA 	Keypress: s
+32.6034 	DATA 	Keypress: s
+32.8032 	DATA 	Keypress: k
+33.4533 	DATA 	Keypress: s
+33.6200 	DATA 	Keypress: k
+33.7368 	DATA 	Keypress: l
+33.8730 	DATA 	Keypress: s
+34.0191 	DATA 	Keypress: k
+34.1519 	DATA 	Keypress: s
+34.1525 	DATA 	Keypress: l
+34.3447 	EXP 	map: autoDraw = False
+34.3447 	EXP 	text: autoDraw = True
+34.4348 	DATA 	Keypress: s
+34.4503 	DATA 	Keypress: k
+34.4613 	EXP 	text: autoDraw = False
+34.6840 	EXP 	window1: mouseVisible = True
+1.8753 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+13.6435 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+15.8009 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000022FC3EA4A90>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000022FC4276AC8>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+15.8015 	EXP 	window1: mouseVisible = True
+15.8016 	EXP 	window1: recordFrameIntervals = False
+15.9659 	EXP 	window1: recordFrameIntervals = True
+16.1497 	EXP 	window1: recordFrameIntervals = False
+16.6083 	EXP 	Created instrText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='instrText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+16.7647 	EXP 	Created map = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='image/RMT_test_map.jpg', interpolate=True, mask=None, maskParams=None, name='map', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.75, 0.75]), texRes=128, units='height', win=Window(...))
+16.7926 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='Finished', units='height', win=Window(...), wrapWidth=1)
+16.8314 	EXP 	instrText: autoDraw = True
+20.0650 	EXP 	Imported road map conditions.xlsx as conditions, 1 conditions, 2 params
+20.0656 	EXP 	Created sequence: sequential, trialTypes=1, nReps=1, seed=None
+20.0662 	EXP 	New trial (rep=0, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+20.1956 	DATA 	Keypress: s
+20.2044 	EXP 	instrText: autoDraw = False
+20.2044 	EXP 	map: autoDraw = True
+29.1959 	DATA 	Keypress: k
+30.9451 	DATA 	Keypress: k
+31.1270 	DATA 	Keypress: k
+32.3930 	DATA 	Keypress: k
+32.5600 	DATA 	Keypress: k
+35.3580 	DATA 	Keypress: k
+35.5235 	DATA 	Keypress: k
+36.9235 	DATA 	Keypress: k
+37.0892 	DATA 	Keypress: k
+38.8551 	DATA 	Keypress: k
+39.0209 	DATA 	Keypress: k
+39.9962 	EXP 	map: autoDraw = False
+39.9962 	EXP 	text: autoDraw = True
+60.7020 	DATA 	Keypress: escape
+60.7122 	EXP 	text: autoDraw = False
+61.6301 	EXP 	window1: mouseVisible = True

@@ -1,0 +1,147 @@
+0.9242 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+7.2982 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+9.0521 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D85F264A58>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001D85F637A90>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.0530 	EXP 	window1: mouseVisible = True
+9.0531 	EXP 	window1: recordFrameIntervals = False
+9.2175 	EXP 	window1: recordFrameIntervals = True
+9.4010 	EXP 	window1: recordFrameIntervals = False
+9.6145 	EXP 	Created instrText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='instrText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.9101 	EXP 	Created map = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='image/RMT_test_map.jpg', interpolate=True, mask=None, maskParams=None, name='map', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.75, 0.75]), texRes=128, units='height', win=Window(...))
+9.9293 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='Finished', units='height', win=Window(...), wrapWidth=1)
+9.9603 	EXP 	instrText: autoDraw = True
+10.4370 	EXP 	Imported road map conditions.xlsx as conditions, 1 conditions, 2 params
+10.4372 	EXP 	Created sequence: sequential, trialTypes=1, nReps=32, seed=None
+10.4375 	EXP 	New trial (rep=0, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+10.6532 	DATA 	Keypress: k
+10.6624 	EXP 	instrText: autoDraw = False
+10.6624 	EXP 	map: autoDraw = True
+29.3590 	DATA 	Keypress: s
+29.3769 	EXP 	New trial (rep=1, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+29.3859 	EXP 	map: autoDraw = False
+29.3859 	EXP 	map: autoDraw = True
+29.7758 	EXP 	New trial (rep=2, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+29.7781 	DATA 	Keypress: k
+29.7856 	EXP 	map: autoDraw = False
+29.7856 	EXP 	map: autoDraw = True
+30.1397 	EXP 	New trial (rep=3, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+30.1420 	DATA 	Keypress: s
+30.1523 	EXP 	map: autoDraw = False
+30.1523 	EXP 	map: autoDraw = True
+30.4574 	EXP 	New trial (rep=4, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+30.4600 	DATA 	Keypress: k
+30.4691 	EXP 	map: autoDraw = False
+30.4691 	EXP 	map: autoDraw = True
+30.7756 	EXP 	New trial (rep=5, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+30.7808 	DATA 	Keypress: s
+30.7863 	EXP 	map: autoDraw = False
+30.7863 	EXP 	map: autoDraw = True
+31.0738 	EXP 	New trial (rep=6, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+31.0765 	DATA 	Keypress: k
+31.0854 	EXP 	map: autoDraw = False
+31.0854 	EXP 	map: autoDraw = True
+31.3427 	EXP 	New trial (rep=7, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+31.3458 	DATA 	Keypress: s
+31.3511 	EXP 	map: autoDraw = False
+31.3511 	EXP 	map: autoDraw = True
+31.6233 	EXP 	New trial (rep=8, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+31.6261 	DATA 	Keypress: k
+31.6338 	EXP 	map: autoDraw = False
+31.6338 	EXP 	map: autoDraw = True
+31.8408 	EXP 	New trial (rep=9, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+31.8441 	DATA 	Keypress: s
+31.8503 	EXP 	map: autoDraw = False
+31.8503 	EXP 	map: autoDraw = True
+32.1554 	EXP 	New trial (rep=10, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+32.1581 	DATA 	Keypress: k
+32.1672 	EXP 	map: autoDraw = False
+32.1672 	EXP 	map: autoDraw = True
+32.4214 	DATA 	Keypress: s
+32.4380 	EXP 	New trial (rep=11, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+32.4502 	EXP 	map: autoDraw = False
+32.4502 	EXP 	map: autoDraw = True
+32.7073 	EXP 	New trial (rep=12, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+32.7102 	DATA 	Keypress: k
+32.7172 	EXP 	map: autoDraw = False
+32.7172 	EXP 	map: autoDraw = True
+32.9878 	EXP 	New trial (rep=13, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+32.9904 	DATA 	Keypress: s
+32.9996 	EXP 	map: autoDraw = False
+32.9996 	EXP 	map: autoDraw = True
+33.2401 	EXP 	New trial (rep=14, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+33.2463 	DATA 	Keypress: k
+33.2509 	EXP 	map: autoDraw = False
+33.2509 	EXP 	map: autoDraw = True
+33.5212 	EXP 	New trial (rep=15, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+33.5231 	DATA 	Keypress: s
+33.5325 	EXP 	map: autoDraw = False
+33.5325 	EXP 	map: autoDraw = True
+33.7537 	DATA 	Keypress: k
+33.7706 	EXP 	New trial (rep=16, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+33.7831 	EXP 	map: autoDraw = False
+33.7831 	EXP 	map: autoDraw = True
+34.0555 	EXP 	New trial (rep=17, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+34.0583 	DATA 	Keypress: s
+34.0652 	EXP 	map: autoDraw = False
+34.0652 	EXP 	map: autoDraw = True
+34.3365 	EXP 	New trial (rep=18, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+34.3388 	DATA 	Keypress: k
+34.3484 	EXP 	map: autoDraw = False
+34.3484 	EXP 	map: autoDraw = True
+34.6537 	EXP 	New trial (rep=19, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+34.6565 	DATA 	Keypress: s
+34.6652 	EXP 	map: autoDraw = False
+34.6652 	EXP 	map: autoDraw = True
+34.9364 	DATA 	Keypress: k
+34.9535 	EXP 	New trial (rep=20, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+34.9649 	EXP 	map: autoDraw = False
+34.9649 	EXP 	map: autoDraw = True
+35.2208 	EXP 	New trial (rep=21, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+35.2229 	DATA 	Keypress: s
+35.2312 	EXP 	map: autoDraw = False
+35.2312 	EXP 	map: autoDraw = True
+35.4846 	DATA 	Keypress: k
+35.5033 	EXP 	New trial (rep=22, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+35.5147 	EXP 	map: autoDraw = False
+35.5147 	EXP 	map: autoDraw = True
+35.8393 	EXP 	New trial (rep=23, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+35.8419 	DATA 	Keypress: s
+35.8473 	EXP 	map: autoDraw = False
+35.8473 	EXP 	map: autoDraw = True
+36.1023 	DATA 	Keypress: k
+36.1221 	EXP 	New trial (rep=24, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+36.1306 	EXP 	map: autoDraw = False
+36.1306 	EXP 	map: autoDraw = True
+36.4516 	EXP 	New trial (rep=25, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+36.4537 	DATA 	Keypress: s
+36.4636 	EXP 	map: autoDraw = False
+36.4636 	EXP 	map: autoDraw = True
+36.7865 	EXP 	New trial (rep=26, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+36.7885 	DATA 	Keypress: k
+36.7965 	EXP 	map: autoDraw = False
+36.7965 	EXP 	map: autoDraw = True
+37.0863 	EXP 	New trial (rep=27, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+37.0895 	DATA 	Keypress: s
+37.0963 	EXP 	map: autoDraw = False
+37.0963 	EXP 	map: autoDraw = True
+37.3843 	EXP 	New trial (rep=28, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+37.3872 	DATA 	Keypress: k
+37.3961 	EXP 	map: autoDraw = False
+37.3961 	EXP 	map: autoDraw = True
+37.7009 	DATA 	Keypress: s
+37.7178 	EXP 	New trial (rep=29, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+37.7290 	EXP 	map: autoDraw = False
+37.7290 	EXP 	map: autoDraw = True
+37.9854 	EXP 	New trial (rep=30, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+37.9883 	DATA 	Keypress: k
+37.9953 	EXP 	map: autoDraw = False
+37.9953 	EXP 	map: autoDraw = True
+38.2522 	EXP 	New trial (rep=31, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+38.2552 	DATA 	Keypress: s
+38.2624 	EXP 	map: autoDraw = False
+38.2624 	EXP 	map: autoDraw = True
+38.5704 	DATA 	Keypress: k
+38.5771 	EXP 	map: autoDraw = False
+38.5771 	EXP 	text: autoDraw = True
+43.4451 	DATA 	Keypress: escape
+43.4561 	EXP 	text: autoDraw = False
+43.7277 	EXP 	window1: mouseVisible = True
