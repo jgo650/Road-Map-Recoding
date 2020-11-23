@@ -1,0 +1,6 @@
+﻿corrAns,directionNote,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,displayMap.thisRepN,displayMap.thisTrialN,displayMap.thisN,displayMap.thisIndex,directNote,instructions.started,instructions.stopped,key_resp_4.keys,key_resp_4.rt,key_resp_4.started,key_resp_4.stopped,image.started,image.stopped,key_resp_3.keys,key_resp_3.corr,key_resp_3.rt,key_resp_3.started,key_resp_3.stopped,instrText.started,instrText.stopped,participant,session,date,expName,psychopyVersion,frameRate,
+,,,,,,,,,,,14.754135499999393,None,k,11.635721200029366,14.754135499999393,None,,,,,,,,,,1,001,2020_Nov_23_1335,road map expt,2020.2.4,60.04419253367547,
+s,left,0,0,0,0,,,,,,,,,,,,26.60173340002075,None,s,1,1.27404019999085,26.60173340002075,None,,,1,001,2020_Nov_23_1335,road map expt,2020.2.4,60.04419253367547,
+s,left,1,0,1,0,,,,,,,,,,,,27.901001500023995,None,k,0,0.8627672999864444,27.901001500023995,None,,,1,001,2020_Nov_23_1335,road map expt,2020.2.4,60.04419253367547,
+s,left,2,0,2,0,,,,,,,,,,,,28.783367500000168,None,k,0,0.6658416999853216,28.783367500000168,None,,,1,001,2020_Nov_23_1335,road map expt,2020.2.4,60.04419253367547,
+,,,,,,,,,,,,,,,,,,,,,,,,29.466676200041547,None,,,,,,,

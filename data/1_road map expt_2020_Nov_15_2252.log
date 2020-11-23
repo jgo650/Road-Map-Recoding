@@ -1,0 +1,59 @@
+1.7441 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+14.5981 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+20.8892 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000026F4BC7CEB8>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000026F4BB5BEF0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+20.8899 	EXP 	window1: mouseVisible = True
+20.8900 	EXP 	window1: recordFrameIntervals = False
+21.0542 	EXP 	window1: recordFrameIntervals = True
+21.2377 	EXP 	window1: recordFrameIntervals = False
+22.2274 	EXP 	Created instrText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='instrText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+22.6470 	EXP 	Created demo_map = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='image/RMT_demo_map.jpg', interpolate=True, mask=None, maskParams=None, name='demo_map', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.75, 0.75]), texRes=128, units='height', win=Window(...))
+22.6805 	EXP 	Created instructionsText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='instructionsText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+23.1203 	EXP 	Created map = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='image/InkedRMT_test_map_LI.jpg', interpolate=True, mask=None, maskParams=None, name='map', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.75, 0.75]), texRes=128, units='height', win=Window(...))
+23.1475 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='Finished', units='height', win=Window(...), wrapWidth=1)
+23.1894 	EXP 	instrText: autoDraw = True
+37.7803 	DATA 	Keypress: k
+40.3735 	EXP 	Imported road map demo conditions.xlsx as conditions, 1 conditions, 2 params
+40.3739 	EXP 	Created sequence: sequential, trialTypes=1, nReps=3, seed=None
+40.3744 	EXP 	New trial (rep=0, index=0): OrderedDict([('corrAns', 's'), ('directionNote', 'left')])
+40.4785 	DATA 	Keypress: k
+40.4884 	EXP 	instrText: autoDraw = False
+40.4884 	EXP 	demo_map: autoDraw = True
+42.0130 	EXP 	New trial (rep=1, index=0): OrderedDict([('corrAns', 's'), ('directionNote', 'left')])
+42.0175 	DATA 	Keypress: s
+42.0232 	EXP 	demo_map: autoDraw = False
+42.0232 	EXP 	demo_map: autoDraw = True
+42.7607 	DATA 	Keypress: k
+42.7780 	EXP 	New trial (rep=2, index=0): OrderedDict([('corrAns', 's'), ('directionNote', 'left')])
+42.7881 	EXP 	demo_map: autoDraw = False
+42.7881 	EXP 	demo_map: autoDraw = True
+43.4493 	DATA 	Keypress: k
+43.4536 	EXP 	demo_map: autoDraw = False
+43.4536 	EXP 	instructionsText: autoDraw = True
+56.8621 	DATA 	Keypress: k
+56.8946 	EXP 	Imported road map conditions.xlsx as conditions, 1 conditions, 2 params
+56.8951 	EXP 	Created sequence: sequential, trialTypes=1, nReps=1, seed=None
+56.8956 	EXP 	New trial (rep=0, index=0): OrderedDict([('corrAns', 's'), ('directNote', 's = left')])
+57.0491 	EXP 	instructionsText: autoDraw = False
+57.0491 	EXP 	map: autoDraw = True
+57.7134 	DATA 	Keypress: s
+59.4310 	DATA 	Keypress: s
+60.2961 	DATA 	Keypress: k
+61.3285 	DATA 	Keypress: k
+62.3944 	DATA 	Keypress: s
+63.5263 	DATA 	Keypress: s
+64.3098 	DATA 	Keypress: k
+65.6751 	DATA 	Keypress: k
+66.8408 	DATA 	Keypress: k
+69.3390 	DATA 	Keypress: s
+70.4206 	DATA 	Keypress: k
+71.7357 	DATA 	Keypress: s
+72.6362 	DATA 	Keypress: s
+73.5024 	DATA 	Keypress: k
+74.2013 	DATA 	Keypress: k
+75.3335 	DATA 	Keypress: s
+76.5333 	DATA 	Keypress: s
+76.9077 	EXP 	map: autoDraw = False
+76.9077 	EXP 	text: autoDraw = True
+78.8106 	DATA 	Keypress: s
+78.8225 	EXP 	text: autoDraw = False
+79.1986 	EXP 	window1: mouseVisible = True
